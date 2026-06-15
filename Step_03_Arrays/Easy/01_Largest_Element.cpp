@@ -22,7 +22,7 @@ public:
 /*
 APPROACH:
 Initialize max with first element.
-Iterate through array, update max if larger element found.
+Iterate through array, update max if found larger element.
 
 TIME: O(n)
 SPACE: O(1)
