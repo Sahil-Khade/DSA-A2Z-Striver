@@ -1,4 +1,4 @@
-// Problem: Palindrome Number (LeetCode #9)
+// Problem: Palindrome Number (LeetCode)
 // Link: https://leetcode.com/problems/palindrome-number/
 
 class Solution {
@@ -19,5 +19,5 @@ public:
 
 
 // Approach: Avoid negative no. reverse, create reverse compare with previous.
-// Time Complexity: O(log n) number of digits
-// Space Complexity: O(1)
+// Time : O(log n) number of digits
+// Space : O(1)
