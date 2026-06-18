@@ -1,10 +1,5 @@
-// Problem: Second Largest in Array
+// Problem: Second Largest in Array (GeeksforGeeks)
 // Link: https://www.geeksforgeeks.org/problems/second-largest3735/1
-// Platform: GeeksforGeeks
-// Difficulty: Easy
-
-#include <bits/stdc++.h>
-using namespace std;
 
 class Solution {
 public:
@@ -26,10 +21,8 @@ public:
     }
 };
 
-/*
-APPROACH:
-Update second largest whenever a new largest is found, or when an element is in between them.
+// Approach: Update second largest whenever a new largest is found
+// or when an element is in between them.
+// TIME: O(n)
+// SPACE: O(1)
 
-TIME: O(n)
-SPACE: O(1)
-*/
