@@ -1,4 +1,4 @@
-// Problem: Sum of First N Terms (GeeksforGeeks)
+// Problem: Sum of Natural Number Cubes (GeeksforGeeks)
 // Link: https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1
 
 class Solution {
